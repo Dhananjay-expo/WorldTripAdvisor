@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "115267869181",
+    "firebase_url": "https://world-trip-advisor.firebaseio.com",
+    "project_id": "world-trip-advisor",
+    "storage_bucket": "world-trip-advisor.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:115267869181:android:7d4b21ec4dce673c",
+        "android_client_info": {
+          "package_name": "com.androideditiors.worldtripadvisor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "115267869181-mkjtespqlnpe38cq4p6glabn5dievc69.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.androideditiors.worldtripadvisor",
+            "certificate_hash": "9c07c3e7c8e28942df77f7e95ce666af95090bf6"
+          }
+        },
+        {
+          "client_id": "115267869181-3l6g4vtq4004t6uqtlpksr64tm7406nq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgA7JegO3BV8B0QF47lh4w2QJYEDQQctE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "115267869181-3l6g4vtq4004t6uqtlpksr64tm7406nq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
